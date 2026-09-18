@@ -44,6 +44,5 @@ This project features a mechatronic system where a camera and a laser are mounte
 
 | Structure | Working Video Demo |
 | :---: | :---: |
-| ![Image](<img width="432" height="412" alt="image" src="https://github.com/user-attachments/assets/5cac4a31-b9b9-4008-87cf-4dbd4f93a03a" />) | ![Video Demo]([assets/demo_preview.gif](https://github.com/KeremCikikci/360ObjectDetection-marking/assets/98697826/dfb02741-992f-4851-bfd7-1ea080ee7a19))
-
+| <img width="432" height="412" alt="image" src="https://github.com/user-attachments/assets/99d71836-8857-41ff-9c17-2c1e052202d9" /> | [![Watch the video](https://img.shields.io/badge/▶_Watch_Video-Demo-red?style=for-the-badge)](https://github.com/KeremCikikci/360ObjectDetection-marking/assets/98697826/dfb02741-992f-4851-bfd7-1ea080ee7a19) |
 
